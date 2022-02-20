@@ -1,0 +1,26 @@
+body {
+    width: 100%;
+    height: auto;
+    font-family: sans-serif;
+}
+
+.title {
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    background-color: rgb(226, 224, 224);
+}
+
+.left,
+.right {
+    margin: auto;
+    width: 40%;
+}
+
+.subtitle {
+    text-align: center;
+}
